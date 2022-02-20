@@ -1,10 +1,2 @@
- Volume in drive C is System
- Volume Serial Number is F231-8660
+Changes un this file
 
- Directory of C:\Users\nkangude\Desktop\Project
-
-20-02-2022  22:29    <DIR>          .
-20-02-2022  22:29    <DIR>          ..
-20-02-2022  22:29                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  441,966,178,304 bytes free
